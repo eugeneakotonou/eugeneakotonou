@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eugeneakotonou
 - 👀 I’m interested in Data analyst and Data Science
-- 🌱 I’m currently learning IBM Data Analyst Certification 
+- 🌱 IBM Data Analyst Certification
 - 💞️ I’m looking to collaborate on any freelance project on Data Science or Data Analysis  
 - 📫 How to reach me +229 97979930 /eugeneakotonou@gmail.com
 
